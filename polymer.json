@@ -1,0 +1,5 @@
+{
+    "entrypoint": "./docs/index.html",
+    "shell": "./docs/github-user-wc.es.js",
+    "npm": true
+}
