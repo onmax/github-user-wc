@@ -1,3 +1,3 @@
-# vitejs-vite-9hy4oz
+# Github user WC
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-9hy4oz)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/github/onmax/github-user-wc)
