@@ -7,11 +7,12 @@ export default defineConfig(({ mode }) => ({
     lib: {
       entry: 'src/github-user.ts',
       name: 'githubuser',
-      formats: ['es']
+      formats: ['es'],
     },
     rollupOptions: {
       external: mode === "production" ? "" : /^lit-element/,
     },
+    minify: mode === "production",
   },
   plugins: [
     // Resolve bare module specifiers to relative paths
